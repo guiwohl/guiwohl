@@ -9,7 +9,7 @@ React · Next.js · React Native · Svelte
 PostgreSQL · Docker · dbmate · Tailwind
 
 ## I'm into
-Motorsports
+Motorsports \n
 Automotive and motorcycle engineering
 Mechanical watches
 Music and cinema
