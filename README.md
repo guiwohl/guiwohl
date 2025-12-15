@@ -1,16 +1,15 @@
-## Hi there 👋
+# Profile
 
-<!--
-**guiwohl/guiwohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI engineer from Santa Catarina, Brazil. Working on agentic systems and general software.
+Software systems, end to end. Quit vibe coding, enter context engineering.
 
-Here are some ideas to get you started:
+## Stack
+Python · TypeScript/JavaScript
+React · Next.js · React Native · Svelte
+PostgreSQL · Docker · dbmate · Tailwind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm into
+Motorsports
+Automotive and motorcycle engineering
+Mechanical watches
+Music and cinema
