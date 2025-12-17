@@ -20,7 +20,7 @@
 · Music and cinema
 </p>
 
-<h2 align="left">Stack.</h2>
+<h2 align="left">Main Stack.</h2>
 
 <h3 align="left">Frontend</h3>
 <div align="left">
