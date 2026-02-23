@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/dPZ0GDR.png"  />
+  <img height="200" src="https://i.imgur.com/22ZWz9c.png"  />
 </div>
 
 ###
