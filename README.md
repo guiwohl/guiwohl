@@ -1,11 +1,11 @@
 <div>
-  <img style="100%" src="assets/GW-icon.webp"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=70&stroke=FFFFFF&strokeWidth=4&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/22ZWz9c.png"  />
+  <img height="200" src="assets/GW-icon.webp"  />
 </div>
 
 ###
