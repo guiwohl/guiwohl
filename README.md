@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="assets/GW-icon.webp"  />
+  <a href="https://guiwohl.com"><img height="200" src="assets/GW-icon.webp"  /></a>
 </div>
 
 <p align="center"><a href="https://guiwohl.com">guiwohl.com</a></p>
